@@ -1,0 +1,100 @@
+body {
+  background-color: rgb(244, 248, 249);
+  width: 1000px;
+  margin: 0 auto;
+  padding-top: 100px;
+  font-family: "Helvetica";
+  
+}
+
+.container {
+  padding: 35px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(225, 232, 237);
+  border-radius: 10px;
+  height: 260px;
+}
+
+.profile-img {
+  position: relative;
+  margin-right: 25px;
+  display: inline-block;
+  position: relative;
+  float: left;
+
+}
+
+.profile-name {
+  margin-right: 8px;
+  position: relative;
+  float: left;
+}
+h2 {
+  margin: 0;
+  margin-right: 5px;
+  position: relative;
+  float: left;
+  font-size: 35px;
+  color: rgb(0, 0, 0);
+}
+
+.twitter-tag {
+    position: relative;
+    margin: 0;
+    top: 25px;
+    right: 140px;
+    font-size: 25px;
+    color: rgb(104, 109, 129);
+}
+
+h1  {
+  position: relative;
+  top: 17px;
+  margin-bottom: 5px;
+  font-weight: 400;
+}
+.post-day {
+  display: inline-block;
+  color: rgb(104, 109, 129);
+  font-weight: 400;
+  font-size: 30px;
+}
+.arrow-tweet {
+  font-size: 30px;
+  margin: 0 40px;
+  color: rgb(104, 109, 129);
+  position: relative;
+  float: left;
+  margin-left: 10px;
+}
+#left-arrow {
+  margin-top: 5px;
+}
+span {
+  margin-left: 10px;
+}
+
+.follow-button {
+  position: relative;
+  margin-top: -230px;
+  width: 180px;
+  height: 60px;
+  float: right;
+  color: rgb(85, 172, 238);
+  border: 2px solid rgb(85, 172, 238);
+  border-radius: 10px;
+}
+
+.follow-button img {
+  float: left;
+  margin-top: 15px;
+  margin-right: 10px;
+  margin-left: 20px
+
+}
+.follow-button p {
+    font-weight: 700;
+    font-size: 30px;
+    margin: 0;
+    margin-top: 12px;
+}
